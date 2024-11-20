@@ -1,0 +1,30 @@
+body {
+  color: #000000;
+  font-family: sans-serif;
+  border-top: 10px solid #1098ad;
+  position: relative;
+}
+
+h1 {
+  font-size: 18px;
+}
+
+.black {
+  color: #000000;
+}
+
+.red {
+  color: #ff0000;
+}
+
+.green {
+  color: #00ff00;
+}
+
+.blue {
+  color: #0000ff;
+}
+
+.header {
+  color: #000000;
+}
